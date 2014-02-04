@@ -1,0 +1,104 @@
+
+body {
+  background-color: white !important;
+}
+
+.samgee .logo-banner.doodle-banner {
+  background: #ccc !important;
+  border: 0 !important;
+}
+
+#jump_paging {
+  display: none !important;
+}
+
+.samgee .header {
+  background: #aaa !important;
+  border: 0 !important;
+}
+
+.samgee .header li a:hover {
+  background: #bbb !important;
+  border-bottom: 0 !important;
+}
+
+.samgee .header .global-navigate li {
+  border: 0 !important
+}
+
+.samgee .header .my-menu li { border: 0 !important }
+
+.samgee .header .search-wrap { display: none !important }
+body.down header.clone { display: none !important }
+
+.samgee .display-post-wrapper.main-post {
+  border-radius: 0 !important;
+  background-color: #E0E0E0 !important;
+}
+
+.samgee .display-post-wrapper.main-post .main-post-inner {
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
+.samgee .altcolor05 .display-post-wrapper-inner {
+  box-shadow: none !important;
+  border: 0 !important;
+  background-color: #fff !important;
+  color: #333 !important;
+}
+
+.display-post-status-leftside { border: 0 !important }
+.display-post-story { color: #333 !important; }
+
+.samgee .display-post-title { color: #454545; }
+
+.samgee .display-post-tag-wrapper .tag-item {
+  border: 0 !important;
+  background-color: #eee !important;
+}
+.samgee .display-post-tag-wrapper .tag-item:hover {
+  background-color: #fff !important;
+  color: #222 !important;
+}
+
+.samgee .display-post-wrapper-inner {
+  box-shadow: none !important;
+  background-color: #fff !important;
+}
+
+.samgee .emotion-vote-list {
+  background: #efefef !important;
+  border: 0 !important
+}
+
+.samgee .display-post-wrapper {
+  border-bottom: 1px solid #eee !important;
+  margin-bottom: 30px !important;
+  padding-bottom: 30px !important;
+}
+.samgee .pageno-title .pageno-title-line { display: none !important; }
+.samgee .pageno-title .title {
+  background: #dedede !important;
+  color: #666 !important;
+  padding: 0 20px !important;
+}
+.samgee .pageno-title .icon-header-badge3 { display: none !important; }
+
+.samgee .loadmore-bar-paging a,
+.samgee .loadmore-bar-paging .loadmore-bar-inner {
+  background: #fff !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.samgee .loadmore-bar-paging {
+  border: 1px solid #efefef !important;
+}
+
+.samgee .sub-comment .display-post-wrapper-inner {
+  background: #f7f7f7 !important;
+  border: 0 !important;
+  padding-bottom: 20px !important;
+  border-radius: 0 !important;
+}
