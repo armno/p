@@ -1,10 +1,9 @@
-
 body {
   background-color: #ecf0f1 !important;
 }
 
 a:link {
-	color: #d35400 !important;
+  color: #d35400 !important;
 }
 
 a:visited {
@@ -26,7 +25,7 @@ a:visited {
 }
 
 .samgee .header li a:hover {
-  background: #bbb !important;
+  background: #bdc3c7 !important;
   border-bottom: 0 !important;
 }
 
@@ -35,6 +34,11 @@ a:visited {
 }
 
 .samgee .header .my-menu li { border: 0 !important }
+
+.samgee .header .global-navigate li a,
+.samgee .header .my-menu li a {
+  color: #fff !important;
+}
 
 .samgee .header .search-wrap { display: none !important }
 body.down header.clone { display: none !important }
@@ -119,6 +123,7 @@ body.down header.clone { display: none !important }
 .samgee .loadmore-bar a,
 .samgee .loadmore-bar .loadmore-bar-inner {
   text-shadow: none !important;
+  color: #fff !important;
 }
 
 .samgee .display-post-vote .like-score.top-score {
@@ -131,4 +136,41 @@ body.down header.clone { display: none !important }
 .samgee .display-post-vote .icon-heart-dislike {
   background: none !important;
   border: 0 !important;
+}
+
+.samgee .display-post-wrapper.comment-box-color textarea {
+  background: #f8f8f8 !important;
+  border: 1px solid #e6e6e6 !important;
+  box-shadow: none !important;
+}
+
+.button {
+  background: #fff !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.button:hover {
+  background: #fff !important;
+}
+
+.button span {
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
+.button.letdo-butt span,
+.button.selected-butt.letdo-butt:hover span {
+  background: #16a085 !important;
+}
+
+.button.letdo-butt span em {
+  text-shadow: none !important;
+  border: 0 !important;
+  padding: 1em 2em !important;
+  font-size: 16px !important;
+}
+
+.samgee .footer {
+  background: #2c3e50 !important
 }
