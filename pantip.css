@@ -174,3 +174,7 @@ body.down header.clone { display: none !important }
 .samgee .footer {
   background: #2c3e50 !important
 }
+
+.remark-four-txt {
+  color: #999 !important;
+}
