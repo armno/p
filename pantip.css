@@ -179,3 +179,31 @@ body.down header.clone { display: none !important }
 .remark-four-txt {
   color: #999 !important;
 }
+
+.related-post {
+  box-shadow: none;
+}
+
+.related-block-title { 
+  background-color: transparent;
+  border: 0;
+}
+
+.related-block-title h3 {
+  color: #333;
+}
+
+.related-show .related-post-list .post-pick-nothumb {
+  background-color: transparent;
+  border-bottom: 1px solid #dedede;
+  padding: 20px;
+}
+
+.related-show .related-post-list {
+  border: 0;
+}
+
+.post-pick-ad,
+.comment-box-remark {
+  display: none;
+}
